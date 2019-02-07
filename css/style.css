@@ -404,6 +404,17 @@ header top area
 	padding: 0 15px;
 	color: #fff;
 }
+.search-box button {
+	position: absolute;
+	right: 0;
+	height: 100%;
+	width: 50px;
+	background: none;
+	border: none;
+	border-left: 1px solid #FFCB0F;
+	color: #adadad;
+	cursor: pointer;
+}
 
 /*
 ==================================
